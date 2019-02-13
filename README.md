@@ -3,6 +3,8 @@
 
 # kerasgenerator <img src="man/figures/logo.svg" align="right" height=140/>
 
+> this version is ahmadhusain's branch for internal training purpose
+
 `kerasgenerator` package is shipped with some data generator functions,
 which are designed to make the data generation process for
 [`keras`](https://keras.rstudio.com) models easier.
